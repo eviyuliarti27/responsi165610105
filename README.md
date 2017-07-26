@@ -1,13 +1,14 @@
 <html
 <head>
-<title> Responsi TCC</title>
 </head>
 <body>
 <h1> Menjalankan Docker </h1>
-<h3>1. Membuat direktori pada docker</h3>
-<h3>2. masuk ke direktori yang telah dibuat</h3>
-<h3>3.Membuat Dockerfile</h3>
-<h3>4. Mme Build docker images</h3>
-<h3>5. Run docker images</h3>
+<ul>
+<li>1. Membuat direktori pada docker</li>
+<li>2. masuk ke direktori yang telah dibuat</li>
+<li>3.Membuat Dockerfile</li>
+<li>4. Mme Build docker images</li>
+<li>5. Run docker images</li>
+</ul>
 </body>
 </html>
